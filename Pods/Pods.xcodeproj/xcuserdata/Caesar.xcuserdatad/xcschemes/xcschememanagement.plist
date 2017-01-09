@@ -7,20 +7,42 @@
 		<key>Alamofire.xcscheme</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<false />
+			<key>orderHint</key>
+			<integer>1</integer>
 		</dict>
 		<key>Pods-Calculator.xcscheme</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<false />
+			<key>orderHint</key>
+			<integer>2</integer>
 		</dict>
 		<key>SnapKit.xcscheme</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<false />
+			<key>orderHint</key>
+			<integer>3</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict/>
+	<dict>
+		<key>88E9EC28B8B46C3631E6B242B50F4442</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>F0691F05DE31B7EAE6B8D25BBDF28E6D</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>F61041A4A93C3D47C580F8B8253C6230</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+	</dict>
 </dict>
 </plist>
